@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Kyle Newman
 
-<!--
-**HelloNewman30/HelloNewman30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Infrastructure Operational Specialist @ Ameren**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+- 🛠️ Skilled in **network monitoring**, **PC software & hardware support**, and continually learning about **cybersecurity**.
+- 👨‍💻 Passionate about building my GitHub presence as I learn to create projects and repositories.
+- 📈 Highly motivated and working towards a career in **cybersecurity**.
+- 🗣️ Also interested in **tech sales**—particularly as a Sales Engineer.
+
+---
+
+### 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/kylewnewman/)
+
+---
+
+### 🚀 Goals
+
+- Sharpen my cybersecurity skills and transition into a dedicated role in the field.
+- Explore opportunities in tech sales and sales engineering.
+- Build and share projects on GitHub as I learn and grow.
+
+---
+
+Thanks for visiting my profile!
